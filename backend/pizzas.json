@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "5fe9281aff59fe11ee684768"
+  },
+  "id": 1,
+  "name": "Hawaii Pizza",
+  "description": "Neapolitan is the original pizza. This delicious pie dates all the way back to 18th century in Naples, Italy. Variations: Pizza Margherita, Pizza Marinara",
+  "vegan": false,
+  "options": [
+    {
+      "_id": {
+        "$oid": "5ff7754d8a42860218f14fc3"
+      },
+      "size": "20 cm",
+      "price": 30
+    },
+    {
+      "_id": {
+        "$oid": "5ff7754d8a42860218f14fc4"
+      },
+      "size": "40 cm",
+      "price": 50
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fe9317b1a79bd29cc8903f1"
+  },
+  "id": 2,
+  "name": "Chicago Pizza",
+  "description": "Chicago pizza, also commonly referred to as deep-dish pizza, gets its name from the city it was invented in. During the early 1900’s, Italian immigrants in the windy city were searching for something similar to the Neapolitan pizza",
+  "vegan": false,
+  "options": [
+    {
+      "size": "20 cm",
+      "price": 29
+    },
+    {
+      "size": "40 cm",
+      "price": 48
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fe932451a79bd29cc8903f2"
+  },
+  "id": 3,
+  "name": "Greek Pizza",
+  "description": "Greek pizza was created by Greek immigrants who came to America and were introduced to Italian pizza",
+  "vegan": true,
+  "options": [
+    {
+      "size": "20 cm",
+      "price": 32
+    },
+    {
+      "size": "40 cm",
+      "price": 54
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff580232015471a64004006"
+  },
+  "id": 5,
+  "name": "New Pizza",
+  "description": "qwerty",
+  "vegan": true,
+  "options": [
+    {
+      "_id": {
+        "$oid": "5ff6ffd82d118b3bd075a59b"
+      },
+      "size": "20 cm",
+      "price": 45
+    },
+    {
+      "_id": {
+        "$oid": "5ff6ffd82d118b3bd075a59c"
+      },
+      "size": "40 cm",
+      "price": 70
+    }
+  ],
+  "__v": 0
+}]

@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "5ff59b4cca78e208acb0663a"
+  },
+  "id": 1,
+  "userName": "gianni@pizza-love.me",
+  "firstName": "Giani",
+  "lastName": "Pizza-Lover",
+  "addresses": [
+    {
+      "id": 1,
+      "street": "qa",
+      "number": "1"
+    }
+  ]
+}]
